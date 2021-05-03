@@ -46,7 +46,7 @@ if __name__ == '__main__':
 
         if (URL != ""):
             domainURL = re.findall(r"(.+/{2}.+?)[/]", URL)
-            slugURL = re.findall(r"(/dp.+)[?/]", URL)
+            slugURL = re.findall(r"(/dp.+?)[/]", URL)
             finalURL = "".join(domainURL + slugURL)
         elif (URL == ""):
             break
