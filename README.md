@@ -3,9 +3,9 @@
 ## Description & Usage
 A simple tool that shortens Amazon URLs and puts them in your clipboard to be pasted conveniently.
 
-*"My money long."* —Wiz Khalifa
-
 Amazon URLs, at times, have the tendency to be longer than Wiz Khalifa's supposed "money" as he so intricately once claimed. Take a look at the below example.
+
+*"My money long."* —Wiz Khalifa
 
 This a certified mess of an Amazon URL, which could be fed into AMZNNinja:
 
