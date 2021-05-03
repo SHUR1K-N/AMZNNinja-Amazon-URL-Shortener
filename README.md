@@ -22,7 +22,7 @@ rd_p=1493ce18-a74b-4311-9662-82d8e55e9a65&pf_rd_r=Q4FWD3GCHBTQ32XDD1JS&psc=1&qid
 <p>Wiz Khalifa URL</p>
 </div>
 
-And AMZNNinja would output this cleaner, shorter, version of the URL:
+And AMZNNinja would output this cleaner, shorter, and—obviously—functional version of the URL:
 
 `https://www.amazon.com/dp/B07C5VG64V`
 
