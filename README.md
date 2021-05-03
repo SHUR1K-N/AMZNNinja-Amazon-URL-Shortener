@@ -10,11 +10,11 @@ Amazon URLs, at times, have the tendency to be longer than Wiz Khalifa's suppose
 This a certified mess of an Amazon URL, which could be fed into AMZNNinja:
 
 ```
-https://www.amazon.com/Noctua-NF-A12x25-PWM-Premium-Quality-Quiet/dp/B07C5VG64V/ref=sxin_9_ac_d_rm?ac_md
-=0-0-bm9jdHVhIDEyMG1tIGZhbg%3D%3D-ac_d_rm&crid=3VCQRA626B19Q&cv_ct_cx=noctua+120mm+fan&dchild=1&keywords
-=noctua+120mm+fan&pd_rd_i=B07C5VG64V&pd_rd_r=90e2bddc-1612-4662-a92d-4d4f2c6f23ac&pd_rd_w=39Imv&pd_rd_wg
-=achez&pf_rd_p=1493ce18-a74b-4311-9662-82d8e55e9a65&pf_rd_r=Q4FWD3GCHBTQ32XDD1JS&psc=1&qid=1620065761&sp
-refix=noctua%2Caps%2C458&sr=1-1-12d4272d-8adb-4121-8624-135149aa9081
+https://www.amazon.com/Noctua-NF-A12x25-PWM-Premium-Quality-Quiet/dp/B07C5VG64V/ref=sxin_9_ac_d_rm?ac_md=0-0-bm9
+jdHVhIDEyMG1tIGZhbg%3D%3D-ac_d_rm&crid=3VCQRA626B19Q&cv_ct_cx=noctua+120mm+fan&dchild=1&keywords=noctua+120mmfan
+&pd_rd_i=B07C5VG64V&pd_rd_r=90e2bddc-1612-4662-a92d-4d4f2c6f23ac&pd_rd_w=39Imv&pd_rd_wg=achez&pf_rd_p=1493ce18-a
+74b-4311-9662-82d8e55e9a65&pf_rd_r=Q4FWD3GCHBTQ32XDD1JS&psc=1&qid=1620065761&sprefix=noctua%2Caps%2C458&sr=1-1-1
+2d4272d-8adb-4121-8624-135149aa9081
 ```
 
 <div align="center">
