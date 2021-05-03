@@ -38,7 +38,7 @@ Beautiful, isn't it?
 <p>Example Execution</p>
 </div>
 
-This project was created in Python, for personal use. Sending friends Amazon URLs were an eyesore, so this just *had* to be conceived as soon as I noticed a consistent pattern of redundancy within Amazon URLs.
+This project was created in Python, for personal use. Sending friends Amazon URLs was an eyesore, so this was conceived as soon as I noticed a consistent pattern of redundancy within Amazon URLs.
 
 ## Dependencies to PIP-Install
 - **colorama** (for colors)
