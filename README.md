@@ -28,7 +28,10 @@ https://www.amazon.com/Noctua-NF-A12x25-PWM-Premium-Quality-Quiet/dp/B07C5VG64V/
 
 And AMZNNinja would output this cleaner, shorter, and—obviously—functional version of the URL:
 
+<div align="center">
 `https://www.amazon.com/dp/B07C5VG64V`
+</div>
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/SHUR1K-N/AMZNNinja-Amazon-URL-Shortener/master/Images/Short URL.png">
