@@ -11,7 +11,7 @@ A simple tool that shortens Amazon URLs and puts them in your clipboard to be pa
 Amazon URLs, at times, have the tendency to be longer than Wiz Khalifa's supposed "money" as he so intricately once claimed. Take a look at the below example.
 
 <div align="center">
-*"My money long."* —Wiz Khalifa
+"My money long." —Wiz Khalifa
 </div>
 <br>
 
